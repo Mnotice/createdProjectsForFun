@@ -1,13 +1,17 @@
-﻿string secretWord = "giraffe";
-string guess = "";
-int guessLimit = 4;
+﻿
+string color, pluralNoun, celebrity;
 
-while(guess != secretWord)
-{
-    Console.Write("Enter guess: ");
-    guess = Console.ReadLine();
-}
+Console.Write("Enter a color: ");
+color = Console.ReadLine();
 
-Console.Write("You Win!");
+Console.Write("Enter a plural noun: ");
+pluralNoun = Console.ReadLine();
+
+Console.Write("Enter a celebrity: ");
+celebrity = Console.ReadLine();
+
+Console.WriteLine("Roses are " + color);
+Console.WriteLine("Violets are " + pluralNoun);
+Console.WriteLine("I love " + celebrity);
 
 Console.ReadLine();
