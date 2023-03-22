@@ -1,7 +1,7 @@
 # createdProjectsForFun
- my playground for dumping what I do.
+ ## my playground for dumping what I do.
 
-and some photos I like.
+### ..and some photos I like.
 
 ***In the darkness of his screen,
 Neo sits, fingers a blur,
