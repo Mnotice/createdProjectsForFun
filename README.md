@@ -8,7 +8,7 @@ Neo sits, fingers a blur,
 Lost in the code he weaves,
 A digital world to conjure.***
 
-![DALL·E 2023-03-21 14 50 03 - Surprise me with an image less than 1 mb, when I download](https://user-images.githubusercontent.com/62525324/226611041-ab025bb7-bdd6-4376-80ea-30940077206b.png)
+![DALL·E 2023-03-22 13 40 38 - A image from a telescope of the Pillars of Creation and a scary entity behind it](https://user-images.githubusercontent.com/62525324/226895403-ad22a2e8-a9ce-43eb-923b-cb824246c837.png)
 
 ***Lines of logic and syntax flow,
 Matrix magic at his command,
