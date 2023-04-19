@@ -1,0 +1,20 @@
+@model WebApplication1.Controllers.Topic
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Topic - @Model.Name</title>
+    <style>
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <h1>@Model.Name</h1>
+    <ul>
+        @foreach (var subtopic in Model.Subtopics)
+        {
+            <li>@subtopic</li>
+        }
+    </ul>
+</body>
+</html>
